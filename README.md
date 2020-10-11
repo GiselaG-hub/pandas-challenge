@@ -37,3 +37,18 @@ Average Reading Score
 % Passing Math (The percentage of students that passed math.)
 % Passing Reading (The percentage of students that passed reading.)
 % Overall Passing (The percentage of students that passed math and reading.)
+
+Top Performing Schools (By % Overall Passing)
+
+Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
+
+School Name
+School Type
+Total Students
+Total School Budget
+Per Student Budget
+Average Math Score
+Average Reading Score
+% Passing Math (The percentage of students that passed math.)
+% Passing Reading (The percentage of students that passed reading.)
+% Overall Passing (The percentage of students that passed math and reading.)
