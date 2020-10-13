@@ -79,8 +79,6 @@ Average Reading Score
 % Overall Passing (The percentage of students that passed math and reading.)
 
 
-
-
 Scores by School Size
 
 Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
